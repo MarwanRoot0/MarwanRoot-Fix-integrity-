@@ -1,21 +1,20 @@
 Telegram channel:
-https://t.me/playintegrityfix
+https://t.me/Online_Rooting1
 
-Device verdict should pass by default.
-If not, try removing /data/adb/pif.json file.
+ONLINE ROOTING REMOTELY 😍
+📱 متواجد ترويت جميع الهواتف🟢  وحل
+جميع المشاكل وعمل سوفت وير ✔️ وتنظيف
+الجهاز بالكامل 😘و إصلاح كراش ببجي 📱 نسخ [ 32bit ] 🛠
 
-Donations:
-https://www.paypal.com/paypalme/chiteroman
+حل مشاكل اكتشاف الروت للعبه فارلايت والتطبيقات الاخره 🔥
 
-If your ROM is signed with test-keys, modify "spoofSignature" value in
-/data/adb/modules/playintegrityfix/pif.json and set to "true".
-Remember to kill com.google.android.gms.unstable process after this!
+أجعل جهازك أمن بنسبة ١٠٠٪ 🔥 尺ooｷ SaFety 🛡
 
-If you are using TrickyStore and you have a valid keybox, but Strong
-isn't passing, maybe you should change the ROM.
-Stock ROMs gives the best results.
+🔰 للتفاصيل وطلب الروت تواصل 🔰 
 
-# v17.3
 
-- Fix SELinux prop spoofing
-- Remove useless code
+⭐ @SIP_I ✅
+
+@Online_rooting1 ✔️ القناه التابعه لنا
+
+SEND YOUR ORDER NOW 🔥😉
